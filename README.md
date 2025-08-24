@@ -1,3 +1,7 @@
+# Moved to rust-lang/rust
+
+This repository now lives inline to rust-lang/rust (https://github.com/rust-lang/rust/tree/master/src/tools/rust-installer) and has been archived here. All future changes should be filed against rust-lang/rust, existing issues/PRs will not be monitored.
+
 [![Build Status](https://travis-ci.org/rust-lang/rust-installer.svg?branch=master)](https://travis-ci.org/rust-lang/rust-installer)
 
 A generator for the install.sh script commonly used to install Rust in
